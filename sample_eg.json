@@ -1,0 +1,31 @@
+{
+    "userData": {
+      "username": "john_doe",
+      "password": "super_secret_password123",
+      "email": "john.doe@example.com"
+    },
+    "apiDetails": {
+      "api.username": "api_user",
+      "api.password": "api_password_456",
+      "api.client_id": "client-id-789",
+      "api.client_secret": "api-secret-xyz",
+      "api.base-url": "https://api.example.com"
+    },
+    "awsCredentials": {
+      "accessKeyId": "AKIAIOSFODNN7EXAMPLE",
+      "secretAccessKey": "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY",
+      "sessionToken": "FQoGZXIvYXdzEFYaDAjL8Oqx1U5QKu/aEx2KBG0FlaFS9BY0XS6OjQffhFwplHboer8JKgNF6BP0VrT6dU5GAMZtkuEHVsvbsYEH5nHRH18oH1KRfD"
+    },
+    "authHeaders": {
+      "Authorization": "Bearer abcdef1234567890",
+      "blade-auth": "bearer someTokenValueHere"
+    },
+    "clientInfo": {
+      "client_id": "client-id-12345",
+      "client_secret": "superSecretClientSecret",
+      "username": "client_user",
+      "password": "client_password_789",
+      "redirect_uri": "https://example.com/callback"
+    }
+  }
+  
